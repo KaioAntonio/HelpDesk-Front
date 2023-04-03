@@ -30,11 +30,12 @@ import { NavComponent } from './components/nav/nav.component';
 import { HomeComponent } from './components/home/home.component';
 import { HeaderComponent } from './components/header/header.component';
 import { TecnicoListComponent } from './components/tecnico/tecnico-list/tecnico-list.component';
+import { LoginComponent } from './components/login/login.component';
 
 @NgModule({
   declarations: [
     AppComponent, 
-    NavComponent, HomeComponent, HeaderComponent, TecnicoListComponent //Sempre tem que declarar
+    NavComponent, HomeComponent, HeaderComponent, TecnicoListComponent, LoginComponent //Sempre tem que declarar
   ],
   imports: [
     BrowserModule,
