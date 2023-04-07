@@ -49,7 +49,7 @@ export class ChamadoListComponent implements OnInit {
   }
 
   retornaPrioridade(prioridade: any): string{
-    if(prioridade = '0'){
+    if(prioridade == '0'){
       return 'BAIXA';
     } else if (prioridade == '1'){
       return 'MÉDIA';
