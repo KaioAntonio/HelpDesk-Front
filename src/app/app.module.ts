@@ -41,12 +41,13 @@ import { ClienteListComponent } from './components/cliente/cliente-list/cliente-
 import { ClienteUpdateComponent } from './components/cliente/cliente-update/cliente-update.component';
 import { ClienteDeleteComponent } from './components/cliente/cliente-delete/cliente-delete.component';
 import { ChamadoListComponent } from './components/chamado/chamado-list/chamado-list.component';
+import { ChamadoCreateComponent } from './components/chamado/chamado-create/chamado-create.component';
 
 @NgModule({
   declarations: [
     AppComponent, 
     NavComponent, HomeComponent, HeaderComponent, TecnicoListComponent, LoginComponent, TecnicoCreateComponent, TecnicoUpdateComponent, TecnicoDeleteComponent,
-    ClienteCreateComponent, ClienteListComponent, ClienteUpdateComponent, ClienteDeleteComponent, ChamadoListComponent //Sempre tem que declarar
+    ClienteCreateComponent, ClienteListComponent, ClienteUpdateComponent, ClienteDeleteComponent, ChamadoListComponent, ChamadoCreateComponent //Sempre tem que declarar
   ],
   imports: [
     BrowserModule,
