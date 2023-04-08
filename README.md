@@ -1,28 +1,48 @@
-# Helpdesk
+<h1 align="center">Helpdesk</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
+<h1 align="center">
+    <a href="https://helpdesk-kaio.vercel.app">🌐 Acesse</a>
+</h1>
+<p align="center">🚀 Projeto do Helpdesk</p>
 
-## Development server
+<h4 align="center"> 
+	✅ Concluído ✅
+</h4>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Servidor de desenvolvimento
 
-## Code scaffolding
+Execute `ng serve` para um servidor de desenvolvimento. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Andaime de código
 
-## Build
+Execute `ng generate component-name` para gerar um novo componente. Você também pode usar `ng generate directiva|pipe|service|class|guard|interface|enum|module`.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Construir
 
-## Running unit tests
+Execute `ng build` para compilar o projeto. Os artefatos de compilação serão armazenados no diretório `dist/`.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Executando testes de unidade
 
-## Running end-to-end tests
+Execute `ng test` para executar os testes de unidade via [Karma](https://karma-runner.github.io).
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Executando testes de ponta a ponta
 
-## Further help
+Execute `ng e2e` para executar os testes de ponta a ponta por meio de uma plataforma de sua escolha. Para usar esse comando, você precisa primeiro adicionar um pacote que implemente recursos de teste de ponta a ponta.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Angular 12]
+- [HTML5]
+- [CSS3]
+- [Typescript]
+- [Angular Material]
+
+### Autor
+---
+| [<img src="https://avatars.githubusercontent.com/u/75454785?v=4" width=115><br><sub>Kaio Antônio</sub>](https://github.com/KaioAntonio) |
+| :---: |
+
+Feito com ❤️ por Kaio Antônio 👋🏻 Entre em contato!
 
