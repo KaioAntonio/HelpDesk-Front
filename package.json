@@ -9,7 +9,7 @@
     "deploy:ghdocs": "ng build --prod --output-path docs --base-href /HelpDesk-Front/"
   },
   "engines": {
-    "node": "18.x"
+    "node": "16.20.0"
 },
   "private": true,
   "dependencies": {
